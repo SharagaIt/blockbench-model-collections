@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/SharagaIt/blockbench-model-collections/ad0df11aca6af6d5ac5832265d8ece0a45b6cf13/asset/blockbench%20community.svg" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/SharagaIt/blockbench-model-collections/ad0df11aca6af6d5ac5832265d8ece0a45b6cf13/asset/blockbench%20community.svg" align="center" style="width: 30%" />
 </div>  
   
   ---
